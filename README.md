@@ -1,6 +1,7 @@
-# ancient_poetry
+# Ancient Poetry
 Chinese ancient poetry database
-##数据结构
+
+## Table Structure
 
 | 键          | 描述              |
 | ----------- |:-----------------:|
